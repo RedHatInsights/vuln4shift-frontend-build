@@ -1,14 +1,14 @@
 {
   "app_name": "ocp-vulnerability",
   "node_version": ">=16.0.0",
-  "src_hash": "ac2e88fc200854ceb5761c20c87ec4a802410d60",
+  "src_hash": "7b8147d4f4f9665511db2f1b196fc3400d2e5228",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.221.3","@patternfly/react-table@4.90.3"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.7","@redhat-cloud-services/frontend-components-utilities@3.2.17","@redhat-cloud-services/frontend-components@3.9.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "68",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/vuln4shift-frontend/builds/253410086"
+    "build_number": "69",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/vuln4shift-frontend/builds/253411848"
   }
 }

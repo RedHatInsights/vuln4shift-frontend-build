@@ -1,0 +1,11 @@
+{
+    "ocpVulnerability": {
+        "entry": [
+            "/apps/ocp-vulnerability/ocpVulnerability.1665405558721.c26a1aa304733e3cb890.js"
+        ],
+        "modules": [
+            "/apps/ocp-vulnerability/js/3152.1665405558743.c26a1aa304733e3cb890.js",
+            "/apps/ocp-vulnerability/css/3152.403feb11307295df8884.css"
+        ]
+    }
+}

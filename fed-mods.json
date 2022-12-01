@@ -1,11 +1,11 @@
 {
     "ocpVulnerability": {
         "entry": [
-            "/beta/apps/ocp-vulnerability/ocpVulnerability.1669811362883.771919f7ef52257d6428.js"
+            "/beta/apps/ocp-vulnerability/ocpVulnerability.1669891749407.82676658446dda5a4c6b.js"
         ],
         "modules": [
-            "/beta/apps/ocp-vulnerability/css/3152.css",
-            "/beta/apps/ocp-vulnerability/js/3152.1669811362906.771919f7ef52257d6428.js"
+            "/beta/apps/ocp-vulnerability/css/152.css",
+            "/beta/apps/ocp-vulnerability/js/152.1669891749435.82676658446dda5a4c6b.js"
         ]
     }
 }

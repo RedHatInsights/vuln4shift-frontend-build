@@ -1,1 +1,0 @@
-(self.webpackChunkocp_vulnerability_frontend=self.webpackChunkocp_vulnerability_frontend||[]).push([[5622],{5622:()=>{}}]);

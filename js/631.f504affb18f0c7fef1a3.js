@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkocp_vulnerability_frontend=self.webpackChunkocp_vulnerability_frontend||[]).push([[631],{28412:(e,t,n)=>{n.r(t),n.d(t,{default:()=>o});var r=n(93264),l=n.n(r),u=n(39704),c=n(21535),a=n(20346);const o=function(){return l().createElement(u.zt,{store:(0,c.S)().getStore()},l().createElement(a.Z,null))}}}]);
-//# sourceMappingURL=../sourcemaps/631.7b670791e4b6d14bdbe1cd4a3dc1d3f2.js.map

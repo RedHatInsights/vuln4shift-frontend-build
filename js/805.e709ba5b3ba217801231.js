@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkocp_vulnerability_frontend=self.webpackChunkocp_vulnerability_frontend||[]).push([[805],{36491:(e,t,n)=>{n.r(t);var r=n(28416),u=n.n(r),l=n(31051),a=n.n(l),o=n(95998),c=n(21535),i=n(20346);const s=function(){return u().createElement(o.zt,{store:(0,c.S)().getStore()},u().createElement(i.Z,null))};var f=document.getElementById("root");a().render(u().createElement(s,null),f,(function(){return f.setAttribute("data-ouia-safe",!0)}))}}]);
+//# sourceMappingURL=../sourcemaps/805.43894afbc7424750dc13f7e95328212c.js.map

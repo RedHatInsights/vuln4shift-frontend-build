@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[5623],{15623:(p,e,i)=>{i.r(e),i.d(e,{Chip:()=>u.A,ChipGroup:()=>l.Z});var u=i(71710),l=i(73597)}}]);

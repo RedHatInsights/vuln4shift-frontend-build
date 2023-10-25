@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[7286],{64089:(e,a,l)=>{l.r(a),l.d(a,{Badge:()=>u.C});var u=l(68425)}}]);

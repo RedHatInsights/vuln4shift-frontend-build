@@ -1,11 +1,11 @@
 {
-    "ocpVulnerability": {
-        "entry": [
-            "/beta/apps/ocp-vulnerability/ocpVulnerability.e709ba5b3ba217801231.js"
-        ],
-        "modules": [
-            "/beta/apps/ocp-vulnerability/js/631.e709ba5b3ba217801231.js",
-            "/beta/apps/ocp-vulnerability/css/631.eb150ed38caf22739201.css"
-        ]
-    }
+  "name": "ocpVulnerability",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/ocp-vulnerability/",
+  "loadScripts": [
+    "ocpVulnerability.35f17329e382e0afa296.js"
+  ],
+  "buildHash": "35f17329e382e0afa296d08ad9d0cd2c"
 }

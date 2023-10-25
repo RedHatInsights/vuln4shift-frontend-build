@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[1468],{1468:(t,u,e)=>{e.r(u),e.d(u,{Button:()=>n.zx,ButtonSize:()=>n.qE,ButtonType:()=>n.L$,ButtonVariant:()=>n.Wu});var n=e(47173)}}]);

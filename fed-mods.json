@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/ocp-vulnerability/",
   "loadScripts": [
-    "ocpVulnerability.35f17329e382e0afa296.js"
+    "ocpVulnerability.0a5c9b8c1dccf92092c2.js"
   ],
-  "buildHash": "35f17329e382e0afa296d08ad9d0cd2c"
+  "buildHash": "0a5c9b8c1dccf92092c2c510caf028cc"
 }

@@ -1,1 +1,0 @@
-(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[6928],{46928:()=>{}}]);

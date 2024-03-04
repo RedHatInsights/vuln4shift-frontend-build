@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[7127],{65426:(e,l,u)=>{u.r(l),u.d(l,{Skeleton:()=>a.O});var a=u(38386)}}]);

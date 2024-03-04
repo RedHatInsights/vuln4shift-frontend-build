@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[97],{72842:(e,i,n)=>{n.r(i),n.d(i,{Spinner:()=>p.$,spinnerSize:()=>p.S});var p=n(37619)}}]);

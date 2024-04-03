@@ -1,11 +1,1 @@
-{
-  "name": "ocpVulnerability",
-  "version": "1.0.0",
-  "extensions": [],
-  "registrationMethod": "callback",
-  "baseURL": "/beta/apps/ocp-vulnerability/",
-  "loadScripts": [
-    "ocpVulnerability.db490a64b514ff75655f.js"
-  ],
-  "buildHash": "db490a64b514ff75655f2432719bb504"
-}
+{"name":"ocpVulnerability","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/ocp-vulnerability/","loadScripts":["ocpVulnerability.d3317ea51351443134d1.js"],"buildHash":"db490a64b514ff75655f2432719bb504"}

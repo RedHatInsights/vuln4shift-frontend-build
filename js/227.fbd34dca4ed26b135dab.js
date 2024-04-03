@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkocpVulnerability=self.webpackChunkocpVulnerability||[]).push([[227],{96715:(e,t,n)=>{n.r(t);var l=n(28416),r=n.n(l),a=n(31051),u=n.n(a),c=n(65422),o=n(99066),s=n(68509);const i=document.getElementById("root");u().render(r().createElement((()=>r().createElement(c.zt,{store:(0,o.S)().getStore()},r().createElement(s.Z,null))),null),i,(()=>i.setAttribute("data-ouia-safe",!0)))}}]);
-//# sourceMappingURL=../sourcemaps/227.f1cec8d039bf83402401e495183d7c8a.js.map

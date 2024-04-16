@@ -1,3 +1,6 @@
+# ⚠️ This repository is deprecated ⚠️
+Since we are now using containerized builds, this repository's code is not deployed anywhere.
+
 # vuln4shift-frontend-build
 Build repository for Vulnerability for OpenShift frontend
 
